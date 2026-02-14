@@ -27,9 +27,10 @@ Sailing, amateur radio (VA7RHN), antenna design, and cats.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rnistuk&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rnistuk&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnistuk&layout=compact&theme=default)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rnistuk&theme=default)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rnistuk&theme=default)
 
 ## Contact
 
