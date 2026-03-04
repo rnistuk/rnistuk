@@ -4,7 +4,7 @@
 
 ## About Me
 
-Software developer at Cisco and founder of Danzisoft Development. I build tools and simulations spanning C++, Python, Go, JavaScript, and more. Based on Vancouver Island.
+Software developer who is looking for work. I build tools and simulations spanning C++, Python, Go, JavaScript, and more. Based on Vancouver Island.
 
 ## Tech Stack
 
