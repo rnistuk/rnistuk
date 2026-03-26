@@ -16,7 +16,7 @@ Software developer who is looking for work. I build tools and simulations spanni
 |---------|-------------|----------|
 | [Antennas](https://github.com/rnistuk/Antennas) | cocoaNEC antenna models | NEC |
 | [A-Star](https://github.com/rnistuk/A-Star) | A* search algorithm implementation | C++ |
-| [JSVirusSimulation](https://github.com/rnistuk/JSVirusSimulation) | SEIR virus transmission simulation ([live demo](https://danzisoft.ca)) | JavaScript |
+| [JSVirusSimulation](https://github.com/rnistuk/JSVirusSimulation) | SEIR virus transmission simulation ([live demo](https://danzisoft.ca/#seir)) | JavaScript |
 | [GoBoids](https://github.com/rnistuk/GoBoids) | Boids flocking simulation | Go |
 | [GPSModuleGT-U7](https://github.com/rnistuk/GPSModuleGT-U7) | GPS module GUI | Python |
 | [HamClock](https://github.com/rnistuk/HamClock) | Amateur radio clock app | Objective-C |
