@@ -14,6 +14,7 @@ Software developer who is looking for work. I build tools and simulations spanni
 
 | Project | Description | Language |
 |---------|-------------|----------|
+| [Plankton Sumilation](https://github.com/rnistuk/Plankton) | Plankton in a Reactor simulation | C++ |
 | [Antennas](https://github.com/rnistuk/Antennas) | cocoaNEC antenna models | NEC |
 | [A-Star](https://github.com/rnistuk/A-Star) | A* search algorithm implementation | C++ |
 | [JSVirusSimulation](https://github.com/rnistuk/JSVirusSimulation) | SEIR virus transmission simulation ([live demo](https://danzisoft.ca/#seir)) | JavaScript |
