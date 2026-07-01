@@ -2,8 +2,7 @@
 
 **Software Developer** | Metchosin, BC | [danzisoft.ca](https://www.danzisoft.ca)
 
-Software developer with interests in algorithms, simulations, and amateur radio. I favour test-driven development and enjoy building things from the physics up. Currently open to new opportunities.
-
+Software developer with interests in algorithms, simulations, and amateur radio. I favour test-driven development and enjoy building things from the physics up.
 ## Projects
 
 | Project | Description |
